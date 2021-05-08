@@ -1,2 +1,3 @@
 # python-calc
-Iteratively used calculator (Crash proof)
+Iteratively used Python calculator (Crash proof)
+using <b>re</b> library and simple algorithm.
