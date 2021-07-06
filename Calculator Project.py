@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 import re
 run=True
 prev=0
@@ -25,10 +19,3 @@ def domath():
             prev=eval(str(prev)+eq)
 while run:
     domath()
-
-
-# In[ ]:
-
-
-
-
